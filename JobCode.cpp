@@ -164,6 +164,8 @@ class MainNode{
         }
     }
     }
+
+
 template<typename Container>
 void assignBest(Container& C, vector<Worker>& W, Time& T){
     while(!C.empty()){
